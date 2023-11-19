@@ -21,7 +21,8 @@
   <a href="https://www.instagram.com/luizguilhermedealmeida/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-guilherme-almeida-0b746776/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
- <code><img height="60" src="https://tryhackme-badges.s3.amazonaws.com/AzKaBaN.png" alt="TryHackMe"></code>
+ <code><img height="60"
+[<img src="https://tryhackme-badges.s3.amazonaws.com/AzKaBaN.png" alt="TryHackMe">](https://tryhackme.com/p/AzKaBaN)</code>
 </div>
 
   
